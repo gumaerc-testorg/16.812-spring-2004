@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Class agenda and lecture slides.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-812-the-aerospace-industry-spring-2004/e82b5f0d5d4d1cd3a0d8cb9a06ed512f_30_mar_682_class.pdf
+file: /media/courses/16-812-the-aerospace-industry-spring-2004/e82b5f0d5d4d1cd3a0d8cb9a06ed512f_30_mar_682_class.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 30_mar_682_class.pdf
 uid: e82b5f0d-5d4d-1cd3-a0d8-cb9a06ed512f

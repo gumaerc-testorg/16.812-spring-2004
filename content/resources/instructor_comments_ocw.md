@@ -9,8 +9,12 @@ description: '"These comments are directed towards educators visiting [this] web
 
   This document is divided into five sections: Background, Seminar Format, Developing
   Skills for Critical Thinking, Seminar Assessment and Conclusion.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-812-the-aerospace-industry-spring-2004/3673f55ac0fbb87d879e1230f54d686b_Instructor_Comments_OCW.pdf
+file: /media/courses/16-812-the-aerospace-industry-spring-2004/3673f55ac0fbb87d879e1230f54d686b_Instructor_Comments_OCW.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Course Pedagogy
+parent_type: CourseSection
 resourcetype: Document
 title: Instructor_Comments_OCW.pdf
 uid: 3673f55a-c0fb-b87d-879e-1230f54d686b
