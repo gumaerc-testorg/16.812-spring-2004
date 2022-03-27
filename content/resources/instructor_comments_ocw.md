@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Course Pedagogy
 parent_type: CourseSection
+parent_uid: 4a3334d7-fef9-9cc3-e339-fd6a10fc9711
 resourcetype: Document
 title: Instructor_Comments_OCW.pdf
 uid: 3673f55a-c0fb-b87d-879e-1230f54d686b

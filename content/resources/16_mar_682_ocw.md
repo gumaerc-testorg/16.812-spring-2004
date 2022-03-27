@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5ed598b7-36e2-8662-4f1f-dfe53d174fb5
 resourcetype: Document
 title: 16_mar_682_ocw.pdf
 uid: 1a979a96-889b-28ab-a279-853967f9cd78

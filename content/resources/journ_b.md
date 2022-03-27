@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0c3bcd15-c96d-1fb1-7652-089c5120f744
 resourcetype: Document
 title: journ_b.pdf
 uid: 815b9e33-dc13-8176-5a6d-d90bbe71eee7

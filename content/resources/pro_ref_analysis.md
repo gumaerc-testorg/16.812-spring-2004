@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0c3bcd15-c96d-1fb1-7652-089c5120f744
 resourcetype: Document
 title: pro_ref_analysis.pdf
 uid: fb6db620-e8a1-c59f-3fae-7c21af25fea1
