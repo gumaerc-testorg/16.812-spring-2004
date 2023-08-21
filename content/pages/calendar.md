@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of weekly lecture topics.  Weekly
+  class sessions included one or more invited subject matter experts to participate
+  in the day's discussion.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
