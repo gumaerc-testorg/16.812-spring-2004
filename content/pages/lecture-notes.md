@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: Class sessions follow a discussion format, with two main parts.  In one
+  part, the day's invited guests lead a discussion about a topic of their expertise.
+  In the other part of the session, current events are discussed by focusing on recently
+  published Aviation Week and Space Technology articles.  The resources linked in
+  this section contain not only slides presented in class, but a record of the discussion
+  they fostered.  Some resources also include a schedule of the day's topics to illustrate
+  the discussion format more clearly.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +40,7 @@ GUESTS
 {{< tdclose >}}
 {{< tdopen >}}
 Class Introduction  
-Preparing a Reflective Journal ([PDF]({{< baseurl >}}/resources/journals_in_this_seminar))
+Preparing a Reflective Journal ({{% resource_link fe10382b-fe28-a52e-9b04-bfbe23adf2d0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -85,7 +92,7 @@ Mr. Allen Haggerty
 {{< tdclose >}}
 {{< tdopen >}}
 Current Events  
-Lean Thinking ([PDF]({{< baseurl >}}/resources/9_mar_682)) (Courtesy of Joel Cutcher-Gershenfeld. Used with permission.)
+Lean Thinking ({{% resource_link 817c2531-fcf1-e84a-0ba4-4b3f2468074d "PDF" %}}) (Courtesy of Joel Cutcher-Gershenfeld. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Joel Cutcher-Gershenfeld
@@ -98,7 +105,7 @@ Dr. Joel Cutcher-Gershenfeld
 {{< tdclose >}}
 {{< tdopen >}}
 Current Events  
-Islands of Success ([PDF]({{< baseurl >}}/resources/16_mar_682_ocw))
+Islands of Success ({{% resource_link 1a979a96-889b-28ab-a279-853967f9cd78 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Wesley Harris
@@ -111,7 +118,7 @@ Prof. Wesley Harris
 {{< tdclose >}}
 {{< tdopen >}}
 Current Events  
-Lean Enterprises ([PDF]({{< baseurl >}}/resources/30_mar_682_class))
+Lean Enterprises ({{% resource_link e82b5f0d-5d4d-1cd3-a0d8-cb9a06ed512f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Deborah Nightingale
@@ -124,7 +131,7 @@ Prof. Deborah Nightingale
 {{< tdclose >}}
 {{< tdopen >}}
 Current Events  
-A Value-Creation Framework and Program Value ([PDF]({{< baseurl >}}/resources/6_apr_682_ocw))
+A Value-Creation Framework and Program Value ({{% resource_link c76cb662-5946-7079-d830-87d008c5bcbf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Raymond Leopold  
@@ -138,7 +145,7 @@ Prof. Annalisa Weigel
 {{< tdclose >}}
 {{< tdopen >}}
 Current Events  
-Value in Corporate and Government Enterprises ([PDF]({{< baseurl >}}/resources/13_apr_682_ocw))
+Value in Corporate and Government Enterprises ({{% resource_link b27e424b-c0f5-28c1-24f3-055c653c610c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Col. John Keesee  
@@ -153,7 +160,7 @@ Dr. Myles Walton
 {{< tdclose >}}
 {{< tdopen >}}
 Current Events  
-Value at National and International Levels ([PDF]({{< baseurl >}}/resources/27_apr_682_class))
+Value at National and International Levels ({{% resource_link 2ad2f349-f6b3-7d66-2b7d-47560da96669 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Daniel Hastings

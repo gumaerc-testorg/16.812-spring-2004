@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes projects and guidelines for journal assignments.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -24,14 +25,14 @@ As you prepare your journal assignments, questions to keep in mind:
 Format
 ------
 
-Entries about a page (approximately 400 words) in length should be made following each class using an informal, reflective style. The journal should be kept electronically in a printable form. It will be handed in three times during the semester (see [schedule]({{< baseurl >}}/pages/calendar)). The final journal should be about 10 pages in length.
+Entries about a page (approximately 400 words) in length should be made following each class using an informal, reflective style. The journal should be kept electronically in a printable form. It will be handed in three times during the semester (see {{% resource_link 07734e0d-1522-3587-d102-a29ab2c9e7dc "schedule" %}}). The final journal should be about 10 pages in length.
 
 30% of the semester grade will be based upon the journal.
 
 Resources
 ---------
 
-Prompts for Reflective Analysis ([PDF]({{< baseurl >}}/resources/pro_ref_analysis))
+Prompts for Reflective Analysis ({{% resource_link fb6db620-e8a1-c59f-3fae-7c21af25fea1 "PDF" %}})
 
 Sample Journals
 ---------------
@@ -61,7 +62,7 @@ Freight operations
 Research directions   
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/journ_a))
+({{% resource_link eb238ced-7c6b-eb2d-442d-223d71e3245b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Research directions   
 Engineering challenges in business
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/journ_b)) (Courtesy of Christopher Graff. Used with permission.)
+({{% resource_link 815b9e33-dc13-8176-5a6d-d90bbe71eee7 "PDF" %}}) (Courtesy of Christopher Graff. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Engineering challenges in business
 Ethics and accountability
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/journ_c)) (Courtesy of Matthew Richards. Used with permission.)
+({{% resource_link 1ceab92b-c36a-a7b7-cb00-1f3dd714be7a "PDF" %}}) (Courtesy of Matthew Richards. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

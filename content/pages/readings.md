@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'Prior to every lecture, students are required to read the latest edition
+  of Aviation Week & Space Technology, in addition to the assignments listed below
+  from the required textbook: Murman et al.  Lean Enterprise Value: Insights from
+  MIT''s Lean Aerospace Initiative. Palgrave Macmillan, 2002. ISBN: 0333976975.'
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
