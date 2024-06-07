@@ -3,6 +3,7 @@ content_type: resource
 description: Guidelines for keeping a weekly journal capturing important findings
   and thoughts during the semester related to the subject learning objectives.
 file: /courses/16-812-the-aerospace-industry-spring-2004/fe10382bfe28a52e9b04bfbe23adf2d0_Journals_in_this_seminar.pdf
+file_size: 58425
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
