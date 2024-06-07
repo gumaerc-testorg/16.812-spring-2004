@@ -2,6 +2,7 @@
 content_type: resource
 description: Student journal entry.
 file: /courses/16-812-the-aerospace-industry-spring-2004/815b9e33dc1381765a6dd90bbe71eee7_journ_b.pdf
+file_size: 31204
 file_type: application/pdf
 learning_resource_types:
 - Projects
