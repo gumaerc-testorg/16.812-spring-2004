@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student journal entry.
-file: /courses/16-812-the-aerospace-industry-spring-2004/1ceab92bc36aa7b7cb001f3dd714be7a_journ_c.pdf
+file: /ol-ocw-studio-app/courses/16-812-the-aerospace-industry-spring-2004/1ceab92bc36aa7b7cb001f3dd714be7a_journ_c.pdf
 file_size: 32725
 file_type: application/pdf
 learning_resource_types:
