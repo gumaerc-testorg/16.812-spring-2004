@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Class agenda and lecture slides.
-file: /courses/16-812-the-aerospace-industry-spring-2004/1a979a96889b28aba279853967f9cd78_16_mar_682_ocw.pdf
+file: /ol-ocw-studio-app/courses/16-812-the-aerospace-industry-spring-2004/1a979a96889b28aba279853967f9cd78_16_mar_682_ocw.pdf
 file_size: 177914
 file_type: application/pdf
 learning_resource_types:
