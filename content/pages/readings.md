@@ -44,7 +44,7 @@ Preparing a Reflective Journal
  
 {{< tdclose >}}
 {{< tdopen >}}
-The Boeing Company, "[Boeing Dismisses Two Executives for Unethical Conduct](http://boeing.mediaroom.com/2003-11-24-Boeing-Dismisses-Two-Executives-for-Unethical-Conduct)," news release, November 24, 2003.
+The Boeing Company, "{{% resource_link "62566b95-0bfc-4004-a2da-007076634e7b" "Boeing Dismisses Two Executives for Unethical Conduct" %}}," news release, November 24, 2003.
 {{< tdclose >}}
 
 {{< trclose >}}
